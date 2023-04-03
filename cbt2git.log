@@ -1,0 +1,26 @@
+2023-04-03 02:20:18.273140 - Initialized conversion of CBT743
+2023-04-03 02:20:18.483135 - Received CBT.V504.FILE743.PDS from FILE743.XMI 
+2023-04-03 02:20:18.485612 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE743.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:20:18.486963 - Found $$DOC.txt (text/plain) in CBT.V504.FILE743.PDS, moved to PDS/$$DOC
+2023-04-03 02:20:18.487980 - Found $CHANGES.txt (text/plain) in CBT.V504.FILE743.PDS, moved to PDS/$CHANGES
+2023-04-03 02:20:18.489006 - Found $INSTALL.txt (text/plain) in CBT.V504.FILE743.PDS, moved to PDS/$INSTALL
+2023-04-03 02:20:18.489014 - Found $OBJECT1.bin containing application/octet-stream, moved to PDS/$OBJECT1
+2023-04-03 02:20:18.490406 - Found $OBJECT2.bin containing application/octet-stream, moved to PDS/$OBJECT2
+2023-04-03 02:20:18.492588 - Found @FILE743.txt (text/plain) in CBT.V504.FILE743.PDS, moved to PDS/@FILE743
+2023-04-03 02:20:18.493798 - Found AJUL2GRE.jcl (text/plain) in CBT.V504.FILE743.PDS, moved to PDS/AJUL2GRE
+2023-04-03 02:20:18.494930 - Found AMODLIST.jcl (text/plain) in CBT.V504.FILE743.PDS, moved to PDS/AMODLIST
+2023-04-03 02:20:18.496014 - Found BIGLET.rexx (text/plain) in CBT.V504.FILE743.PDS, moved to PDS/BIGLET
+2023-04-03 02:20:18.497051 - Found BIGLGET.rexx (text/plain) in CBT.V504.FILE743.PDS, moved to PDS/BIGLGET
+2023-04-03 02:20:18.498073 - Found CALLMODH.txt (text/plain) in CBT.V504.FILE743.PDS, moved to PDS/CALLMODH
+2023-04-03 02:20:18.499156 - Found CALLMODL.rexx (text/plain) in CBT.V504.FILE743.PDS, moved to PDS/CALLMODL
+2023-04-03 02:20:18.500151 - Found HOWCALLD.txt (text/plain) in CBT.V504.FILE743.PDS, moved to PDS/HOWCALLD
+2023-04-03 02:20:18.501228 - Found INSTALL.rexx (text/plain) in CBT.V504.FILE743.PDS, moved to PDS/INSTALL
+2023-04-03 02:20:18.502184 - Found INSTALL1.jcl (text/plain) in CBT.V504.FILE743.PDS, moved to PDS/INSTALL1
+2023-04-03 02:20:18.503216 - Found INSTALL2.jcl (text/plain) in CBT.V504.FILE743.PDS, moved to PDS/INSTALL2
+2023-04-03 02:20:18.504219 - Found INSTALL3.jcl (text/plain) in CBT.V504.FILE743.PDS, moved to PDS/INSTALL3
+2023-04-03 02:20:18.505228 - Found JUL2GREG.txt (text/plain) in CBT.V504.FILE743.PDS, moved to PDS/JUL2GREG
+2023-04-03 02:20:18.506224 - Found ML.rexx (text/plain) in CBT.V504.FILE743.PDS, moved to PDS/ML
+2023-04-03 02:20:18.507266 - Found MODLIST.rexx (text/plain) in CBT.V504.FILE743.PDS, moved to PDS/MODLIST
+2023-04-03 02:20:18.508202 - Found MODLISTH.txt (text/plain) in CBT.V504.FILE743.PDS, moved to PDS/MODLISTH
+2023-04-03 02:20:18.509292 - Found MODLISTO.txt (text/plain) in CBT.V504.FILE743.PDS, moved to PDS/MODLISTO
+2023-04-03 02:20:18.510373 - Found MODLISTR.txt (text/plain) in CBT.V504.FILE743.PDS, moved to PDS/MODLISTR
